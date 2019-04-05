@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<Resource name="bean/InMemoryDB" auth="Container"
+		type="aero.champ.cargospot.cargomax.dummy.db.InMemoryDB"
+		factory="org.apache.naming.factory.BeanFactory" singleton="true" />
+</Context>
